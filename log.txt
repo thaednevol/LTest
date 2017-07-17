@@ -71,3 +71,33 @@ Linea:Descripcion:Campo
 3:Debe ser alfanumýrico:3
 3:No es una naturaleza výlida:4
 Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo

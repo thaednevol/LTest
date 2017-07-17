@@ -35,7 +35,4 @@ public class Error {
 	public void setCampo(String campo) {
 		this.campo = campo;
 	}
-	
-	
-
 }

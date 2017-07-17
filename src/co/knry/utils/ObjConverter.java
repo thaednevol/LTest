@@ -35,7 +35,7 @@ public class ObjConverter implements Serializable{
 			//CODIGO
 			if (i==0){
 				if (testAlphaNumeric(s,i)){
-					administradora.setCodigo(s);;
+					administradora.setCodTpId(s);
 					validador++;
 				}
 			}
