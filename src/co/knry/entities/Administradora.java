@@ -78,7 +78,4 @@ public class Administradora implements Serializable{
 	public void setFechaFusion(Date fechaFusion) {
 		this.fechaFusion = fechaFusion;
 	}
-	
-	
-
 }

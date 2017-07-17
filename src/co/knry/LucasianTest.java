@@ -30,7 +30,6 @@ public class LucasianTest {
 
 	public static void main(String... args) {
 		new LucasianTest().parse();
-		
 	}
 
 	public void parse(){
@@ -41,6 +40,7 @@ public class LucasianTest {
 			List<Thread> hilos = new ArrayList<>();
 
 			int [] exitosos=getExitosos();
+			
 			
 			while ((linea = br.readLine()) != null) {
 				if (!Arrays.asList(exitosos).contains(numLinea)){

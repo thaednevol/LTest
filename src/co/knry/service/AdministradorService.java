@@ -14,13 +14,14 @@ public class AdministradorService {
 
 	static Connection connection = DBConnector.getConnection();
 	static EntityManager em = DBConnector.getEntityManager();
+	static {
+		em.getTransaction().begin();
+	}
 	
 
 	
 	public void add(ObjConverter objConverter) {
 		if (em!=null){
-			
-			em.getTransaction().begin();
 			Administradora a=objConverter.getAdministradora();
 			System.out.println("Guardando: "+a.getCodTpId());
 			em.persist(a);
@@ -83,5 +84,8 @@ public class AdministradorService {
 			e.printStackTrace();
 		}
 	}
+
+
+
 
 }
