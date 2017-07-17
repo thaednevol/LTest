@@ -1,10 +1,17 @@
 package co.knry.entities;
 
+import java.io.Serializable;
 import java.sql.Date;
 
 
-public class Administradora {
+public class Administradora implements Serializable{
 	
+	
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6680364008841676280L;
 	private String codigo;
 	private String nombre;
 	private String codTpId;

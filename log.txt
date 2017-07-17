@@ -5,3 +5,69 @@ Linea:Descripcion:Campo
 Linea:Descripcion:Campo
 Linea:Descripcion:Campo
 Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Dos;CC;111111;PU;X;X;;05032017:Campos insuficientes:
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
+3:No es un tipo výlido:2
+3:Debe ser alfanumýrico:3
+3:No es una naturaleza výlida:4
+Linea:Descripcion:Campo
