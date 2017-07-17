@@ -2,15 +2,17 @@ package co.knry.entities;
 
 import java.io.Serializable;
 import java.sql.Date;
+import javax.persistence.*;
 
-
+@Entity
+@Table
 public class Administradora implements Serializable{
-	
-	
-	
 	/**
 	 * 
 	 */
+	@Id
+	@GeneratedValue(strategy = GenerationType.SEQUENCE)
+	private int id;
 	private static final long serialVersionUID = 6680364008841676280L;
 	private String codigo;
 	private String nombre;
@@ -21,6 +23,7 @@ public class Administradora implements Serializable{
 	private int FSP;
 	private int fusionada;
 	private Date fechaFusion;
+	
 	public String getCodigo() {
 		return codigo;
 	}
